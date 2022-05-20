@@ -1,0 +1,14 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bingo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Frank Yupanqui Allcca",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
